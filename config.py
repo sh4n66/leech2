@@ -150,7 +150,7 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = ""
+UPSTREAM_REPO = "https://github.com/sh4n66/leech2"
 UPSTREAM_BRANCH = "wzv3"
 UPDATE_PKGS = True
 
